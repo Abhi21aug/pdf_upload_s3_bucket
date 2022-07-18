@@ -1,0 +1,61 @@
+.mainDivPdf{
+margin: 18px;
+padding: 12px;
+box-shadow: 0px 0px 22px 12px #00000016;
+border-radius: 0px 4px 4px 0px;
+}
+
+.backArrowStyle{
+    border: none;
+    color: white;
+    padding-top: 4px;
+    padding-right: 1px;
+    margin-left: 3px;
+    margin-top: -28px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    cursor: pointer;
+    height: 29px;
+    width: 29px;
+    border-radius: 50%;
+}
+
+
+.divpdf{
+    padding:3%;
+    border:2px solid #1d2a78;
+    border-radius: 4px;
+  }
+
+  .inputpdf{
+    display: none;
+  }
+  .labelpdf{
+    display: block;
+    cursor:pointer;
+    position: relative;
+    font-weight: 600;
+    color: #1d2a78;
+    font-size: 18px;
+  }
+.imgafepdf{
+    position: absolute;
+    right: 0;
+}
+.firstMonthCss{
+    font-size: 24px;
+    font-weight: 600;
+    color: #1d2a78;
+    margin-bottom: 10px;
+}
+
+.continueButtonPdf{
+    margin: 24px 0px 10px 0px ;
+}
+.paySlipErr{
+  color:  red;
+  font-weight: 600;
+}
